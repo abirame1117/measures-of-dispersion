@@ -6,4 +6,6 @@ Mean : average of all the variables
 Mode : most repeating variables
 Median : middle most variable
 
+these three are measures of dispersions
+
 
