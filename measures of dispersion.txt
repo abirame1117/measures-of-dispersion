@@ -3,3 +3,4 @@ measures of dispersions are :
      2)Median
      3)Mode
 Mean : average of all the variables
+Mode : most repeating variables
