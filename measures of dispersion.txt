@@ -1,0 +1,4 @@
+measures of dispersions are :
+     1) Mean
+     2)Median
+     3)Mode
